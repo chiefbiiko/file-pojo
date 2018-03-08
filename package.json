@@ -1,0 +1,22 @@
+{
+  "name": "file-pojo",
+  "version": "0.0.0",
+  "description": "pojo file store",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiefbiiko/file-pojo.git"
+  },
+  "keywords": [
+    "filepaths"
+  ],
+  "author": "Noah Anabiik Schwarz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiefbiiko/file-pojo/issues"
+  },
+  "homepage": "https://github.com/chiefbiiko/file-pojo#readme"
+}
